@@ -1,6 +1,5 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Clima
 
 ## Our Goal
@@ -27,6 +26,9 @@ By the end of the module, you will have made a beautiful, dark-mode enabled weat
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
+
+<img src = "https://media.giphy.com/media/MBZuUQQrC8KLbnKhCj/giphy.gif" />
+
 ### Condition Codes
 ```
 switch conditionID {
@@ -49,6 +51,4 @@ switch conditionID {
         }
 ```
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
